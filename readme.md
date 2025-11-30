@@ -356,15 +356,7 @@
 
 ---
 
-## 🐍 Watch My Contribution Snake Eat My Contributions!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokeshloki65/lokeshloki65/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokeshloki65/lokeshloki65/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lokeshloki65/lokeshloki65/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ## 💬 My Philosophy
 
@@ -387,13 +379,7 @@
 
 ---
 
-## 🎵 Spotify Now Playing
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k4kw4pqbdz5kg7pqhoycdhtxle&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
